@@ -57,11 +57,11 @@ Usar uma anotation no `Id [StringLength(20)]`
 
 Instalar pacotes nuget: 
 
-    `AspNet.WebApi.Cors `
+    AspNet.WebApi.Cors 
 
-    `EntityFrameworkCore, Core.Design, Core.SqlServer, Core.Tools`
+    EntityFrameworkCore, Core.Design, Core.SqlServer, Core.Tools
 
-    `VisualStudio.Web.CodeGeneration.Design`
+    VisualStudio.Web.CodeGeneration.Design
 
 Criar o ponto de acesso com o db.  Nova pasta `Data`, nova class `DataContext`
 
