@@ -23,7 +23,7 @@ Uma API criada usando C# e alguns Frameworks .NET.
 #### Adiciona um Cliente
 
 ```http
-  POST /api/Clientes/${id}
+  POST /api/Clientes
 ```
 
 #### Edita um Cliente
